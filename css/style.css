@@ -49,13 +49,13 @@
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 991px){
     .text-section{
-        width: 40%;
-        margin: 0 5%;
+        width: 45%;
+        margin: auto 2.5%;
         float: left;
     }
     .section-3{
-        width: 90%;
-        margin: 5%;
+        width: 95%;
+        margin: 2.5%;
     }
 }
 
